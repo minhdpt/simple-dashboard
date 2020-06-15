@@ -4,3 +4,8 @@ https://www.youtube.com/watch?v=jKqnfzdPqJI&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4Ut
 "emmet.includeLanguages": { 
         "javascript": "javascriptreact"
     }
+	
+
+* Code hotkey/shortcut:
+https://www.youtube.com/watch?v=EwzxT-ak_vg&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3&index=7	
+ES7 React/Redux/GraphQL/React-Native snippets
