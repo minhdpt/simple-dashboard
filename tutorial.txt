@@ -1,0 +1,6 @@
+* Tab, tag
+https://www.youtube.com/watch?v=jKqnfzdPqJI&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3&index=4
+
+"emmet.includeLanguages": { 
+        "javascript": "javascriptreact"
+    }
